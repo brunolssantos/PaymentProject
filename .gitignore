@@ -1,0 +1,102 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# Visual Studio user-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Build Tools
+*.exe
+*.dll
+*.pdb
+
+# User-specific files
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# ReSharper is a .NET coding add-in
+.idea/
+*.sln.iml
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Rider
+.idea/
+*.sln.iml
+
+# Entity Framework Core
+*.db
+*.db-shm
+*.db-wal
+
+# Application Insights
+ApplicationInsights.config
+
+# Local appsettings
+appsettings.local.json
+appsettings.Local.json
+
+# Publishing
+PublishProfiles/
+*.publishproj
+*.azurePubxml
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Miscellaneous
+*.log
+*.stackdump
+[Tt]humbs.db
+.DS_Store
+Thumbs.db
+
+# Node (if applicable)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Database files
+*.mdf
+*.ldf
+
+# Visual Studio Code
+.vscode/
+launch.json
+settings.json
+
+# Coverlet
+coverage/
+*.coverage
+
+# Test Results
+TestResults/
